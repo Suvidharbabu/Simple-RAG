@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated vector store (rebuild with `rag-project-2 ingest`)
+data/vector_store/
+
+# Source PDFs (copyrighted books shouldn't be pushed to a public repo)
+data/pdf_files/*.pdf

@@ -1,0 +1,26 @@
+[
+  {"question": "What did Jon Snow name his albino direwolf, and why?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "named him Ghost", "answer_keywords": ["Ghost"]},
+  {"question": "How does Viserys Targaryen die?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "molten gold", "answer_keywords": ["gold"]},
+  {"question": "What does Jaime Lannister say before he pushes Bran out of the tower window?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "The things I do for love", "answer_keywords": ["things I do for love"]},
+  {"question": "What position did Syrio Forel hold in Braavos?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "first sword to the Sealord", "answer_keywords": ["first sword"]},
+  {"question": "What is the name of the godswife and healer that Daenerys meets?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "godswife", "answer_keywords": ["Mirri Maz Duur"]},
+  {"question": "What is the name of Arya Stark's direwolf?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "Nymeria", "answer_keywords": ["Nymeria"]},
+  {"question": "What is the name of Eddard Stark's greatsword?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "Ice", "answer_keywords": ["Ice"]},
+  {"question": "How was King Robert Baratheon mortally wounded?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "boar", "answer_keywords": ["boar"]},
+  {"question": "What are the words of House Stark?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "Winter is coming", "answer_keywords": ["Winter is coming"]},
+  {"question": "Who is the stableboy at Winterfell who only ever says one word?", "expected_route": "pdf", "source_file": "1. A Game of Thrones.pdf", "evidence": "Hodor", "answer_keywords": ["Hodor"]},
+
+  {"question": "How long is a cricket pitch?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "24-yards", "answer_keywords": ["24"]},
+  {"question": "How many players does each cricket team have on the field?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "11 players", "answer_keywords": ["11", "eleven"]},
+  {"question": "What colour is the ball used in Test matches?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "test matches is red", "answer_keywords": ["red"]},
+  {"question": "Who was the first Indian captain to win the Cricket World Cup?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "first Indian captain", "answer_keywords": ["Kapil Dev"]},
+  {"question": "Which player holds the highest individual score in a Test innings according to the tutorial?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "highest individual score", "answer_keywords": ["Lara"]},
+  {"question": "What is a no-ball in cricket?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "popping crease", "answer_keywords": ["crease", "waist"]},
+  {"question": "Who is considered the father of English cricket?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "father of English", "answer_keywords": ["Grace"]},
+  {"question": "In which year was the Asian Cricket Conference renamed the Asian Cricket Council?", "expected_route": "pdf", "source_file": "cricket_tutorial.pdf", "evidence": "renamed as Asian Cricket Council", "answer_keywords": ["2003"]},
+
+  {"question": "Who killed Daenerys Targaryen, the Dragon queen?", "expected_route": "llm", "source_file": null, "evidence": null, "answer_keywords": ["Jon"]},
+  {"question": "Who won the 2023 ODI Cricket World Cup?", "expected_route": "llm", "source_file": null, "evidence": null, "answer_keywords": ["Australia"]},
+  {"question": "What is the capital of Japan?", "expected_route": "llm", "source_file": null, "evidence": null, "answer_keywords": ["Tokyo"]},
+  {"question": "What is the boiling point of water at sea level in degrees Celsius?", "expected_route": "llm", "source_file": null, "evidence": null, "answer_keywords": ["100"]}
+]
